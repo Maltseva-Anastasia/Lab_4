@@ -1,0 +1,18 @@
+
+
+new_level
+level_name second level
+back images//back_bear.jpg
+platform images//ice.png
+ball images//snowball.png
+
+brick_wall
+brick_texture images//cube.png
+position 0.17 0.23
+size 0.7 0.3
+brick_num 6 1
+spaces 3 1
+end_brick_wall
+
+
+end_level
